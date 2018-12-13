@@ -1,0 +1,71 @@
+body{
+    background-color: #c46505;
+    margin: 0;
+    padding: 0;
+    color: aliceblue;
+}
+
+header{
+    background-color: rgb(7, 6, 6);
+    color: aliceblue
+}
+
+header img{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+}
+
+.logo{
+    text-align: center;
+}
+
+.header_left{
+    text-align: left;
+    font-size: 55px;
+    font-style: oblique;
+    display: inline-block;
+    padding-right: 100px;
+}
+
+.header_right{
+    text-align: right;
+    font-size: 55px;
+    font-style: oblique;
+    display: inline-block;
+    padding-left: 100px;
+}
+
+.background_div{
+    background-color: gray;
+    padding: 10px;
+}
+
+nav ul{
+    text-align: center;
+    list-style: none;
+}
+
+nav ul li{
+    display: inline-block;
+    margin-right: 220px;
+    margin-left: 150px;
+    color: black;
+}
+
+.front_page_heading{
+    text-align: center;
+    /* padding-right: 65px; */
+}
+
+.about_us{
+    width: 800px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+footer{
+    background-color: rgb(7, 6, 6);
+    color: aliceblue 
+}
