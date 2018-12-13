@@ -16,7 +16,7 @@ register Sinatra::Reloader
 @@macaroons = Cookies.new("macaroons.jpg", "Macaroon", "$6", 5)
 @@snickerdoodles = Cookies.new("snickerdoodles.jpg", "Snickerdoodles", "$8", 16)
 
-@@banana_nut_muffins = Muffins.new("banana_nut_muffins.jpg", "Banana Nut Muffins", "$5", 3)
+@@banana_nut_muffins = Muffins.new("banana_nut_muffin.jpg", "Banana Nut Muffins", "$5", 3)
 @@blueberry_muffins = Muffins.new("blueberry_muffins.jpg", "Blueberry Muffins", "$5", 3)
 @@honey_muffins = Muffins.new("honey_muffins.jpg", "Honey Muffins", "$3", 5)
 @@pumpkin_cream_muffins = Muffins.new("pumpkin_cream_cheese_muffins.jpg", "Pumpkin Cream Muffins", "$7", 3)
